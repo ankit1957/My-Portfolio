@@ -271,24 +271,23 @@ export const Bio = {
   export const projects = [
     {
       id: 9,
-      title: "Trackify",
-      date: "April 2024 - present",
+      title: "Yoga Master",
+      date: "April 2024 - May-2024",
       description:
-        "Working on it: Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+        "The site is developed using the MERN stack, offering a comprehensive user experience. Users can enroll in desired exercises, add them to their wishlist, and choose from three user profiles: User, Instructor, and Admin. Users can select and enroll in exercises, choose their instructors, while Instructors provide exercise guidance. The Admin oversees the entire site. Additionally, users can utilize the integrated payment server to enroll in courses offered on the site.",
       image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+        "https://i.ibb.co/WsS40Mc/Yoga.png",
       tags: [
-        "Docker",
-        "AWS",
         "React Js",
         "MongoDb",
         "Node Js",
         "Express Js",
         "Redux",
+        "Firebase",
       ],
       category: "web app",
-      github: "",
-      webapp: "",
+      github: "https://github.com/ankit1957/yoga-master-client31",
+      webapp: "https://yoga-master-client31.vercel.app/",
     },
     {
       id: 0,
@@ -366,25 +365,25 @@ export const Bio = {
       description:
         "This HTML code sets up a basic web page for a Tic Tac Toe game. It includes a title tag that names the game Tic Tac Toe and a canvas element with an id of ticTacToeCanvas where the game will be displayed. ",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0WezQeV_KQEZGt2C9Sl-sXkQDsCbW4KHipmj4t18pw&s",
-      tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+        "https://s3-alpha.figma.com/hub/file/479379372/7e6df39f-585d-4a9e-9bf3-4ef4c00f816b-cover.png",
+      tags: ["HTML", "CSS", "JavaScript"],
       category: "web app",
-      github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+      github: "https://github.com/ankit1957/Tic-Tac-Toe",
       webapp: "https://ankit1957.github.io/Tic-Tac-Toe/",
     },
-    // {
-    //   id: 5,
-    //   title: "Todo Web App",
-    //   date: "Jun 2021",
-    //   description:
-    //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    //   image:
-    //     "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    //   category: "web app",
-    //   github: "https://github.com/rishavchanda/Todo-Web-App",
-    //   webapp: "https://rishav-react-todo.netlify.app/",
-    // },
+    {
+      id: 5,
+      title: "Foodi-Online Food Delivery Site",
+      date: "April 2024",
+      description:
+        " The website is developed using the MERN stack, offering a comprehensive user experience. Users can browse food items, add them to their wishlist, and place orders. The site includes an integrated payment system. Once an order is placed, the admin has the ability to confirm or decline the order.",
+      image:
+        "https://i.ibb.co/GHQyrvv/Foodi.png",
+      tags: ["MongoDb", "Express.js", "React Js", "Node JS", "Firebase"],
+      category: "web app",
+      github: "https://github.com/ankit1957/Foodi-Site31",
+      webapp: "https://foodi-site-app31.vercel.app/",
+    },
     // {
     //   id: 6,
     //   title: "Breaking Bad",
