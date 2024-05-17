@@ -288,6 +288,18 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/ankit1957/yoga-master-client31",
       webapp: "https://yoga-master-client31.vercel.app/",
+    },{
+      id: 5,
+      title: "Foodi-Online Food Delivery Site",
+      date: "April 2024",
+      description:
+        " The website is developed using the MERN stack, offering a comprehensive user experience. Users can browse food items, add them to their wishlist, and place orders. The site includes an integrated payment system. Once an order is placed, the admin has the ability to confirm or decline the order.",
+      image:
+        "https://i.ibb.co/GHQyrvv/Foodi.png",
+      tags: ["MongoDb", "Express.js", "React Js", "Node JS", "Firebase"],
+      category: "web app",
+      github: "https://github.com/ankit1957/Foodi-Site31",
+      webapp: "https://foodi-site-app31.vercel.app/",
     },
     {
       id: 0,
@@ -371,19 +383,7 @@ export const Bio = {
       github: "https://github.com/ankit1957/Tic-Tac-Toe",
       webapp: "https://ankit1957.github.io/Tic-Tac-Toe/",
     },
-    {
-      id: 5,
-      title: "Foodi-Online Food Delivery Site",
-      date: "April 2024",
-      description:
-        " The website is developed using the MERN stack, offering a comprehensive user experience. Users can browse food items, add them to their wishlist, and place orders. The site includes an integrated payment system. Once an order is placed, the admin has the ability to confirm or decline the order.",
-      image:
-        "https://i.ibb.co/GHQyrvv/Foodi.png",
-      tags: ["MongoDb", "Express.js", "React Js", "Node JS", "Firebase"],
-      category: "web app",
-      github: "https://github.com/ankit1957/Foodi-Site31",
-      webapp: "https://foodi-site-app31.vercel.app/",
-    },
+    
     // {
     //   id: 6,
     //   title: "Breaking Bad",
